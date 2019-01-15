@@ -1,5 +1,5 @@
 # SAS
-
+#anova1.sas
 The null hypothesis assumed on the given dataset is that the mean number of injuries for the
 groups given for the employees is equal.
 That alternative hypothesis assumed on the given dataset is that the mean number of injuries
